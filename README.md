@@ -149,7 +149,7 @@ class AnimeModel {
     return animes;
   }
 
-  // Obter um anime pelo ID
+  // Obter um anime pelo ID 
   findById(id) {
     return animes.find((anime) => anime.id === Number(id)) || null;
   }

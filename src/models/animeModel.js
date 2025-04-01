@@ -17,7 +17,7 @@ let animes = [
     id: 2,
     title: "My Hero Academia",
     description:
-      "Em um mundo onde quase todos possuem superpoderes, um garoto sem poderes luta para se tornar um herói",
+"Em um mundo onde quase todos possuem superpoderes, um garoto sem poderes luta para se tornar um herói",
     episodes: 113,
     releaseYear: 2016,
     studio: "Bones",
